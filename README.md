@@ -14,16 +14,16 @@
 ### Conocimientos
 > FrontEnd
 - Angular Framework
-- React Framework (Aprendiendo)
-- Vue.JS (Aprendiendo)
+- React Framework
 > BackEnd
 - SpringBoot Framework
-- ASP .NET Core (Aprendiendo)
+- .NET Core 6.0
+- Node JS (Express JS/TS - Nest JS/TS)
 > Data Storage
 - MySQL
 - SQL Server
 - PostgreSQL
-- MongoDB Non-Relational DB (Aprendiendo)
+- MongoDB Non-Relational DB
 
 ### Sobre mí
 
