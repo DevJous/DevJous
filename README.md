@@ -33,8 +33,8 @@
 
 <div align="start">
   <a href="https://github.com/pablouix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josix5&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josix5&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjous&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjous&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 <!--
