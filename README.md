@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/gitlab-yellow?style=for-the-badge&logo=gitlab)](https://gitlab.com/josix5)
 [![](https://img.shields.io/badge/twitter-9cf?style=for-the-badge&logo=twitter)](https://twitter.com/Josix_5)
 [![](https://img.shields.io/badge/website-red?style=for-the-badge&logo=webstorm)](about:blank)
-[![](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-franco-152baa207/)
+[![](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-franco-b832a9290/)
 <!--[![](https://img.shields.io/badge/website-red?style=for-the-badge&logo=webstorm)](https://josix5.github.io)-->
 
 ### Conocimientos
