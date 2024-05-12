@@ -4,7 +4,7 @@
 
 ### Sitios de interés
 
-[![](https://img.shields.io/badge/github-lightgray?style=for-the-badge&logo=github)](https://github.com/Josix5)
+[![](https://img.shields.io/badge/github-lightgray?style=for-the-badge&logo=github)](https://github.com/DevJous)
 [![](https://img.shields.io/badge/gitlab-yellow?style=for-the-badge&logo=gitlab)](https://gitlab.com/josix5)
 [![](https://img.shields.io/badge/twitter-9cf?style=for-the-badge&logo=twitter)](https://twitter.com/JosixFr)
 [![](https://img.shields.io/badge/website-red?style=for-the-badge&logo=webstorm)](about:blank)
