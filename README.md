@@ -1,6 +1,6 @@
 ## Hola, soy <a href="https://github.com/Josix5" target="_blank">Josix</a>!
 
-<img src="./multimedia/Banner.png" alt="Banner-Josix" width="2000" heigth="500">
+<img src="./multimedia/DevJous banner.png" alt="Banner-Josix" width="2000" heigth="500">
 
 ### Sitios de interés
 
