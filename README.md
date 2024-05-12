@@ -15,16 +15,16 @@
 ### Conocimientos
 > FrontEnd
 - Angular Framework
-- React Framework
+- React
 > BackEnd
 - SpringBoot Framework
-- .NET Core 6.0
+- ASP.NET Core
 - Node JS (Express JS/TS - Nest JS/TS)
 > Data Storage
 - MySQL
 - SQL Server
 - PostgreSQL
-- MongoDB Non-Relational DB
+- Mongo
 
 ### Sobre mí
 
