@@ -15,7 +15,6 @@
 ### Conocimientos
 > FrontEnd
 - Angular Framework
-- React
 > BackEnd
 - SpringBoot Framework
 - ASP.NET Core
