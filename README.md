@@ -25,7 +25,7 @@
 
 ### Arcane knowledge
 
-<div style="display: flex;">
+<div align="start" style="display: flex;">
     <div>
         <h3 style="border-bottom-style:solid; border-width:1px;">FrontEnd</h3>
         <ul>
