@@ -4,16 +4,14 @@
 
 ### About me
 
-<div align="left" style="display: flex;">
-  <p style="width: 300px;">
+<p style="display: flex; align-items: center;">
     I'm <b>DevJous</b> and I am a Full Stack developer passionate about programming 
     and creating technological solutions. Since I was young, I have always been interested 
     in technology and its ability to transform the world around us. I discovered my love 
     for programming while I was in college and since then I have been dedicated to learn as
     much as possible about this field.
-  </p>
   <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" style="width:150px; height: 100px; border-radius: 5px; margin-top: 6%">
-</div>
+</p>
 
 ### Metrics
 
