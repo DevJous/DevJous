@@ -10,7 +10,10 @@
     in technology and its ability to transform the world around us. I discovered my love 
     for programming while I was in college and since then I have been dedicated to learn as
     much as possible about this field.
-  <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" style="width:150px; height: 100px; border-radius: 5px; margin-top: 6%">
+</p>
+
+<p align="middle">
+      <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" style="width:150px; height: 100px; border-radius: 5px; margin-top: 6%">
 </p>
 
 ### Metrics
