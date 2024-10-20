@@ -12,7 +12,7 @@
 
 ![](https://komarev.com/ghpvc/?username=DevJous&color=green)
 ![GitHub followers](https://img.shields.io/github/followers/DevJous)
-
+![Discord](https://img.shields.io/discord/732624758633529415)
 
 ### Of interest
 
