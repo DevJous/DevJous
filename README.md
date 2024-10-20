@@ -25,7 +25,7 @@
 
 ### Arcane knowledge
 
-<p align="middle">
+<p align="left">
   <img src="https://houseofangular.io/wp-content/uploads/2023/11/AngularLogoGradient.png" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/640px-Spring_Boot.svg.png" width="50" height="50"/>
