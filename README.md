@@ -1,5 +1,7 @@
 <!--## Hola, soy <a href="https://github.com/Josix5" target="_blank">Josix</a>!-->
-<h2><center>Hello World! I'm DevJous!</center></h2>
+<p align="middle">
+    <h2>Hello World! I'm DevJous!</h2>
+</p>
 
 
 ### About me
