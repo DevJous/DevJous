@@ -55,6 +55,7 @@
 
 
 #PlayStation Lover ❤️
+#Jealjo Co-founder
 <!--
 CREACION DE ICONOGRAFIA A ENLACES
 
