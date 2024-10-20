@@ -25,7 +25,7 @@
 
 ### Arcane knowledge
 
-![<img src="image.png" width="250"/>](https://houseofangular.io/wp-content/uploads/2023/11/AngularLogoGradient.png)
+![<img src="image.png" width="50" heigth="50"/>](https://houseofangular.io/wp-content/uploads/2023/11/AngularLogoGradient.png)
 
 <div align="start" style="display: flex;">
     <div>
