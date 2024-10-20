@@ -14,8 +14,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/DevJous)
 ![Discord](https://img.shields.io/discord/732624758633529415)
 
-<iframe src="https://discord.com/widget?id=732624758633529415&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 ### Of interest
 
 [![](https://img.shields.io/badge/github-lightgray?style=for-the-badge&logo=github)](https://github.com/DevJous)
