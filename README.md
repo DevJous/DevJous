@@ -44,7 +44,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-3030245.png" width="50" height="50"/>
   <img src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409617.png" width="50" height="50"/>
   <img src="https://img.icons8.com/color/512/nginx.png" width="50"  height="50"/>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/docker-logo-png-transparent.png" width="50" height="50"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/docker-logo-png-transparent.png" width="60" height="50"/>
 </p>
 
 ### Statistics
