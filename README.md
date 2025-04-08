@@ -43,7 +43,8 @@
   <img src="https://estuary.dev/static/d02a8d0785a4d9eeddead9dcc720f436/ce562/569dae_Azure_Sql_Server_Logo_Transparent_1_13b0b548d9.png" width="50" height="50"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-3030245.png" width="50" height="50"/>
   <img src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409617.png" width="50" height="50"/>
-  <img src="https://www.sysadminsdecuba.com/wp-content/uploads/2018/11/Nginx-Logo-02.png" width="50"  height="50"/>
+  <img src="https://img.icons8.com/color/512/nginx.png" width="50"  height="50"/>
+  <img src="https://w7.pngwing.com/pngs/991/165/png-transparent-docker-hd-logo-thumbnail.png" width="50" height="50"/>
 </p>
 
 ### Statistics
